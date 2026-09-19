@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../LocalShopBusinessLayer/LocalShopBusinessLayer.csproj" />
+  <Project Path="../LocalShopDataAccessLayer/LocalShopDataAccessLayer.csproj" />
+  <Project Path="LocalShop.csproj" />
+</Solution>
